@@ -1,0 +1,49 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan Actualizado",
+      "empresa": "Codigo con juan",
+      "email": "juan@juan.com",
+      "telefono": "123456789",
+      "notas": "Jajaja",
+      "id": 1
+    },
+    {
+      "nombre": "Ana",
+      "empresa": "Desarrollo Web, Inc.",
+      "email": "ana@ana.com",
+      "telefono": "987654321",
+      "notas": "Ana Maria Felipe Redondo",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos",
+      "telefono": "555555555",
+      "email": "carlos@empresa.com",
+      "empresa": "TechSolutions Ltd."
+    },
+    {
+      "id": 4,
+      "nombre": "María",
+      "telefono": "777777777",
+      "email": "maria@company.org",
+      "empresa": "Innovación Digital, S.A."
+    },
+    {
+      "id": 5,
+      "nombre": "Luis",
+      "telefono": "999999999",
+      "email": "luis@luisco.com",
+      "empresa": "LuisCo Consultancy"
+    },
+    {
+      "nombre": "Alan desde React",
+      "empresa": "UTHH",
+      "email": "alan@uthh.edu.mx",
+      "telefono": "7717128042",
+      "notas": "Desde React",
+      "id": 6
+    }
+  ]
+}
